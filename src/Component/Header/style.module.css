@@ -39,15 +39,15 @@
 }
 .underLine {
   position: relative;
-  left: 35px;
-  top: -5px;
+  left: 47px;
+  top: -12px;
   width: 150px;
 }
 .titleDesc {
   margin: 0;
   position: relative;
   left: 48px;
-  top: -10px;
+  top: -25px;
   font-size: 9px;
   letter-spacing: 1.5px;
 }
@@ -58,4 +58,5 @@
   font-size: 12.5px;
   font-family: sans-serif;
   letter-spacing: 1.5px;
+  text-decoration: none;
 }
